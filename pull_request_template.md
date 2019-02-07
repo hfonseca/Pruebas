@@ -1,8 +1,8 @@
 ## 1. ¿Qué ha cambiado?
-[] En la base de datos
-[] FrontEnd
-[] BlackEnd
-[] Configuracion del server
+-[ ] En la base de datos
+-[ ] FrontEnd
+-[ ] BlackEnd
+-[ ] Configuracion del server
 ## 2. Describa el cambio efectuado
 Aqui se escribe de manera general los cambios efectuados en el proyecto
 
